@@ -2,7 +2,6 @@
  command = 'npm run build'
  publish = '/bulid'
  functions = './functions'
- base = "client"
 
 [[redirects]]
  from = '/api/*'
